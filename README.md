@@ -32,7 +32,7 @@ So what I did is more of a refactoring of the implementation of that tool to be 
 
 ## Getting started
 
-You need to do a little bit of work to get [**alright**](https://github.com/Kalebu/alright) running, but don't worry I got you, everything will work well if you just carefully follow through the documentation.
+You need to do a little bit of work to get [**alright**](https://github.com/windragon/whatsapp_alright_api) running, but don't worry I got you, everything will work well if you just carefully follow through the documentation.
 
 ### Installation
 
@@ -43,7 +43,7 @@ We need to have alright installed on our machine to start using it which can eit
 You first need to clone or download the repo to your local directory and then move into the project directory as shown in the example and then run the command below;
 
 ```bash
-git clone https://github.com/Kalebu/alright
+git clone https://github.com/windragon0910/whatsapp_alright_api
 cd alright
 alright > python setup.py install 
 ....
