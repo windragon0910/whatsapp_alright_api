@@ -301,9 +301,9 @@ Was this useful to you ? Then give it a star so that more people can manke use o
 
 ## Credits
 
-All the credits to:
+All contributes and the credits to:
 
-- [kalebu](https://github.com/kalebu)
+- [windragon0910](https://github.com/windragon0910)
 - [Eurico Nicacio](https://github.com/euriconicacio)
 - [Victor Daniel](https://github.com/vadolasi)
 - [Cornelius Mostert](https://github.com/theCJMan)
